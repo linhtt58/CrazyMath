@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CrazyMath</string>
+
+    <string name="game_name">CRAZY MATH</string>
+    <string name="best_score" formated="false">BEST SCORE: %1$s</string>
+    <string name="play">PLAY</string>
+    <string name="more">MORE</string>
+    <string name="score" formated="false">SCORE: %1$s</string>
+    <string name="best" formated="false">BEST: %1$s</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="your_score" formated="false">YOUR SCORE\n%1$s</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="home">HOME</string>
+</resources>
